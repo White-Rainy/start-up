@@ -1,3 +1,5 @@
+'use client'
+
 import { DictionaryType, getDictionary } from '@/shared/config/i18n'
 import { DictionaryContext } from '@/shared/lib/context'
 import { FC, useEffect, useState } from 'react'

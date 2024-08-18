@@ -1,3 +1,4 @@
+'use client'
 import { DictionaryContext } from '@/shared/lib/context'
 import { useContext } from 'react'
 
